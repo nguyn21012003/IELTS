@@ -4,7 +4,7 @@ aliases:
   - process
 tags:
   - #W1
-  - #Process
+  - #process
 ---
 
 
