@@ -1,3 +1,11 @@
+---
+id: W2, explain
+aliases: []
+tags:
+  - #W2
+  - #Explain
+---
+
 #Task2
 Task 2: There are many environmental problems, such as the greenhouse effect and climate change, and people have hardly found any solutions. Why is this case? And what measures can be taken?
 
@@ -45,3 +53,6 @@ Although many environmental issues, such as the greenhouse effect and climate ch
 - Many = a large number of
 - Worsening = làm tệ đi
 - Severity = seriousness
+
+## Task 2
+
