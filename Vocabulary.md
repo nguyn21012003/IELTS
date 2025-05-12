@@ -1,15 +1,15 @@
 ---
 id: 1747040482-ACVV
 aliases:
-  - Volcabulary
+  - Vocabulary
 tags:
-  - Volcabulary
+  - Vocabulary
   - Process
   - Writing
   - Task1
 ---
 
-# Volcabulary
+# Vocabulary
 
 Rinsing machine
 Concentrated juice

@@ -35,3 +35,9 @@ In Sydney and Melbourne, around 42% to 44% of residents living in these cities p
 The percentages of individuals living in Brisbane and Hobart purchasing instant coffee in the past four weeks were from 52% to 54%, the highest among all other cities. The rate was slightly lower for Adelaide with one-half, while around 45% to 48% of citizens in Sydney and Melbourne had this type of purchase in the surveyed timeframe.
 
 ## Body 3:
+
+
+
+[Overview brief](Overview%20brief.md)
+[Vocabulary](Vocabulary.md)
+[Grammar](1747055766-UWJK.md)
