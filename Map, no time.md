@@ -3,7 +3,7 @@ id: Map, no time
 aliases:
   - Map, no time
 tags:
-  - #Map #No-time #Task1 #Writing
+  - Map No-time Task1 Writing
 ---
 
 # Map 1

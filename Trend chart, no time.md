@@ -1,9 +1,11 @@
 ---
 id: Trend chart, no time
-aliases:
-  - Trend chart, no time
+aliases: []
 tags:
-  - #Trend-chart #Chart-bar #No-time #Task1 #Writing
+  - Writing
+  - Trend-chart
+  - Task1
+  - No-time
 ---
 
 

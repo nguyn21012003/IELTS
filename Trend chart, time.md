@@ -1,10 +1,13 @@
 ---
 id: Trend chart, time
 aliases: []
-tags: []
+tags:
+  - Trend-chart
+  - With-time
+  - Task1
+  - Writing
 ---
 
-#Trend-chart  #With-time #Task1 #Writing 
 
 C1:The number of tourists who stayed on a cruise ship during their trips to this island increased from 250,000 in 2010 to 500,000 in 2011.
 C2: In 2010, only around 250,000 visitors who travelled to this island stayed on a cruise ship, however, the number increased steadily to 500,000 only one year after.
