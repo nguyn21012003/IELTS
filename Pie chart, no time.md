@@ -48,7 +48,14 @@ Regarding how the money was spent, 75% and 69% was the data of money spent repor
 
 Paraphrase: depicts/provides information
 
+- [x]     Overall:  
+- [x]     Coherence and Cohesion:  
+- [x]     Resource: 
+- [x]     Grammatical Range and Accuracy:  
+- [x]     Task Achievement:  
+
 
 [Overview brief](Overview%20brief.md)
 [Vocabulary](Vocabulary.md)
 [Grammar](1747062946-IRJM.md)
+[Education](2025-05-13.md)
