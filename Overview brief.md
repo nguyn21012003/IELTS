@@ -3,9 +3,7 @@ id: Overview brief
 aliases:
   - Overview brief
 tags:
-  - Writing
-  - Task2
-  - Task1
+  - Overview
 ---
 
 # Table

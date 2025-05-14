@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c53f8224dcc9fbc5",
+        "id": "dd3f868c82b8567f",
         "type": "tabs",
         "children": [
           {
-            "id": "42d2305537f05aa9",
+            "id": "996041eda9209c81",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "653b650a319b67ef",
         "type": "tabs",
+        "dimension": 30.257009345794394,
         "children": [
           {
             "id": "079f2f076d0f36e6",
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Writing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,11 +77,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "069e84c43a66ddb2",
+        "type": "tabs",
+        "dimension": 69.7429906542056,
+        "children": [
+          {
+            "id": "5966591f762e3418",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 383.5026054382324
   },
   "right": {
     "id": "e938eac65deee45d",
@@ -166,34 +187,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42d2305537f05aa9",
+  "active": "996041eda9209c81",
   "lastOpenFiles": [
-    "Pie chart, no time.md~",
+    "Bar chart, time.md~",
+    "Overview brief.md",
+    "Overview brief.md~",
+    "1747063192-TFMA.md~",
+    "1747063192-TFMA.md",
+    "1747055526-PEXQ.md",
+    "1747062946-IRJM.md",
     "2025-05-13.md",
+    "2025-05-14.md",
+    "2025-05-14.md~",
+    "assets/W1-education.png",
+    "Map, no time.md~",
+    "assets/W1-library.png",
+    "1747063027-COCD.md~",
+    "1747063027-COCD.md",
+    "Pie chart, no time.md~",
     "2025-05-13.md~",
     "1747055730-IAAZ.md",
     "1747055526-PEXQ.md~",
     "Process.md~",
     "Process.md",
-    "Proces.md~",
     "Proces.md",
-    "Map, time.md~",
-    "1747063192-TFMA.md",
-    "Map, no time.md~",
-    "Trend chart, time.md~",
     "Trend chart, no time.md",
     "Pie chart, no time.md",
-    "Bar chart, time.md~",
-    "1747063027-COCD.md",
-    "1747062946-IRJM.md",
     "Vocabulary.md",
     "Untitled.canvas",
     "Bar chart, time.md",
-    "1747055526-PEXQ.md",
-    "1747055730-IAAZ.md~",
     "1747056025-OUCO.md",
     "1747055766-UWJK.md",
-    "Overview brief.md",
     "process.md",
     "assets/W1-police.png",
     "Map, no time.md",
@@ -210,8 +234,6 @@
     "test.md",
     "assets/test.png",
     "2025-05-11.md",
-    "assets/imgs/W1_map_2.png",
-    "assets/imgs/W1_chart_1.png",
     "Pasted image 20250326180737.png.md"
   ]
 }
