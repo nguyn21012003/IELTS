@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "962f18d8fc8f4af1",
+        "id": "e0434e7bdd69bfbd",
         "type": "tabs",
         "children": [
           {
-            "id": "8387351e431848fd",
+            "id": "eef20db4dabbc214",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Writing",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -183,15 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8387351e431848fd",
+  "active": "eef20db4dabbc214",
   "lastOpenFiles": [
+    "1747055526-PEXQ.md~",
+    "1747391741-ZKVI.md",
+    "2025-05-16.md",
+    "1747063192-TFMA.md",
     "Vocabulary.md",
     "2025-05-13.md",
     "Bar chart, time.md~",
     "Overview brief.md",
     "Overview brief.md~",
     "1747063192-TFMA.md~",
-    "1747063192-TFMA.md",
     "1747055526-PEXQ.md",
     "1747062946-IRJM.md",
     "2025-05-14.md",
@@ -204,7 +207,6 @@
     "Pie chart, no time.md~",
     "2025-05-13.md~",
     "1747055730-IAAZ.md",
-    "1747055526-PEXQ.md~",
     "Process.md~",
     "Process.md",
     "Proces.md",
@@ -228,8 +230,6 @@
     "assets/e.png",
     "assets/test2.png",
     "test.md",
-    "assets/test.png",
-    "2025-05-11.md",
-    "Pasted image 20250326180737.png.md"
+    "assets/test.png"
   ]
 }
