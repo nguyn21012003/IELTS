@@ -59,6 +59,14 @@ In the future, the air field in the north west of Hunderstone Town is expected t
 
 ![W1-library](assets/W1-library.png)
 
+The two maps illustate the transformation of the city library's floor plan over the past 20 years. Overall, it is clear that there has been radical changes in the layout of the library, with the most noticeable being the removal of the CDs, videos and computer games area, the children's books room, the enquiry desk and the reading room, the rearrangement of the adult books areas, the addition of a story-telling area, the lecture room, a computer room, a cafe and an all reference book area, making it more modern and user-friendly.
+
+Two decades ago, the library's layout included sections for CDs, videos, computer games in northeastern corner and the children's book area in the opposite. According to the current plans, while the CD, video and computer game areas has been replaced by a story-telling area including two sofas, a story-telling area and a children's fiction book area, the area on the opposite site has been removed to make way for a lecture room.
+
+Meanwhile, the adult fiction book area in the West and the adult non-fiction in the East have been merged into an adult book area with the addition of an information desk and self-serivice machines in the East, an all reference book area has appeared at the original site of the former of the adult fiction book area. In the South the reading room and the enquiry desk on both sides of the entrance have been turned into a computer room and a cafe in southwestern corner and southeastern corner, respectively.  
+
+
+
 
 
 [Overview brief](Overview%20brief.md)
