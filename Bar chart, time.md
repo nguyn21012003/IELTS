@@ -67,6 +67,24 @@ For females, part-time enrolment started around 800,000 in 1970 and increased sl
 
 
 
+![W1-bar-workers](assets/W1-bar-workers.jpg)
+
+### By Jeremy
+
+The table illustrates how many doctors worked in Australia from 1986 to 2006, while the two bar charts depict the proportion of those individuals, divided by gender, and where they were born.
+
+Overall, it is clear that the number of doctors in Australia witnessed an upward trend over the period. Additionally, despite experiencing different changes, male doctors, outnumbered their female counterparts. Besides, the majority of doctors were born in Australia.
+
+When it comes to the table, there were 23720 doctors in Australia in 1986. From 1986 to 1996, there was a slight increase of about 6000 doctors in Australia before it reached the highest figure of 35450 in 2006.
+
+Regarding the bar graph, more than 70% of doctors are male, which was three times higher than the percentage of female doctors in 1986. Throughout the span of time, while the figure for male doctors decreased slowly to 62%, the percentage of female doctors rose slowly to about 40%. When it comes to where they were born, in the first year, the proportion of doctors who were born in Australia was more than 60%, which was twice as much as the figure for doctors born overseas. Despite undergoing the opposite trend, their figures hit the same point of 50% in the end.
+
+
+![[Pasted image 20250624214741.png]]
+
+Overall, it is clear that all fields witnessed an increase in income except for tourism over the period. Financial services field had the highest income, with telecommunications coming in second, while tourism recorded the lowest values in both 2000 and 2010. In addition, there were slightly differences in the data between three fields, administration, transport and retail/shops.
+
+
 
 
 [Overview brief](Overview%20brief.md)

@@ -45,7 +45,7 @@ In the following stage, the olive paste is placed into perforated bags to facili
 
 #### By Jeremy
 
-The diagram illustates the sequential process involved in the production of orange juice.
+The diagram illustrates the sequential process involved in the production of orange juice.
 
 Overall, it is clear that the orange juice production process is comprised of twelve distinct stages, commencing with harvesting oranges and culminating with delivering the final products to the market.
 
@@ -63,11 +63,26 @@ In the following stage, the cooled juice evaporated, forming concentrated juice.
 
 The diagram illusttes the steps involved in the production and distribution of orange juice.
 
-Overall, it is clear that the process consists of twelve stages, starting from the harvesting of oranges and ending wiht the distribution of orange juice products to retailers.
+Overall, it is clear that the process consists of twelve stages, starting from the harvesting of oranges and ending with the distribution of orange juice products to retailers.
 
 Initially, ripe oranges are harvested by farm worker and then transported by truck to a factory. Upon arrival, the fruits are washed using a rinsing machine before being squeezed to extract juice. The leftover solid waste is separated and used as cattle feed, while the the liquid juice is either packaged for direct sale or stored in refrigerated trucks for further processing.
 
-In the following stsage, the juice is cooled and then undergoes evaporation to remove excess water, resulting in a concentrated form. This concentrate is store in cans and sent to another facility, where water is re-added to restore its liquid state. Finally, the reconstituted juice is packaged and distributed to supermarkets and shops for consumer purchase. Throuhout the process, the juice undergoes both mechanical and chemical stages to ensure it is sale and ready for public consumption.
+In the following stage, the juice is cooled and then undergoes evaporation to remove excess water, resulting in a concentrated form. This concentrate is store in cans and sent to another facility, where water is re-added to restore its liquid state. Finally, the reconstituted juice is packaged and distributed to supermarkets and shops for consumer purchase. Throuhout the process, the juice undergoes both mechanical and chemical stages to ensure it is sale and ready for public consumption.
+
+
+# The diagram below shows how ethanol fuel is producted from corn.
+
+![ethanol](assets/w1-process-ethanol.png)
+
+### By Jeremy 
+
+The flow chart illustrates the production of ethanol fuel from corn.
+
+Overall, it is clear that there are nine main steps in the process, commencing with harvesting corn and culminating with preparing the final products to transport.
+
+The process begins when fresh corns are harvested and then transported into storages. After that, the corns are milled by a milling machine, before being cooked in 4 hours with water. The cooked corns are transferred to fermenting machine for 48 hours, before being separated into solids, with being released as a by-products.
+
+Afterwards, the liquid purifies in 5 hours, forming purified ethanol. Next, the products are driven to warehouse for storage. The process ends with the end products being packed and finally distributed to shops
 
 
 [Overview brief](Overview%20brief.md)
