@@ -10,7 +10,38 @@ tags:
 
 # Some people think that sense of competition should be encouraged in children. However, others consider cooperation more important to make them good adults. Discuss both these views and give your opinion.
 
-### By Jeremy
+## Brainstorm
+
+#### Introduction
+It is commonly/widely argued that because of children should be encouraged to have sense of competition, while some individuals suggest that children should have cooperation. **Although both views hold merit, my view/I agree more with the former/later perspective**. $\to$ **Although both views hold merit, my view is that both dignity should be have in children**
+
+#### Body 1: Giải thích nhận định 1
+
+- Làm tốt công việc hơn, ham học tập hơn tại vì sao muốn tốt hơn đối thử.
+- Nếu mà có được tính cạnh tranh từ bé -> Khi mà lớn lên thì nó quen với áp lực từ những việc có yếu tố cạnh tranh cao như là xin việc làm.
+- Nó tạo ra một cái mục tiêu ảo -> Trẻ em sẽ cố gắng phấn đấu để được cái mục tiêu đó.
+
+
+On the one hand, there are some benefits when children have sense of competition. Firstly, awareness of competition motivates children to improve themselves and reach higher standard. The children can learn multiple skills via a competition, such as creation and goal-setting skills. For example, those children take part in sport competitions or academic contests, children are motivated to train harder and improve their performance in order to win. This not only help them build their physical strength but also teaches them discipline and patience. Secondly, they can learn how to cope with pressure and handle comparative with others, which can be beneficial for their future academic and professional lives.
+
+
+#### Body 2: Giải thích tại sao cooperation là quan trọng hơn
+
+On the others hand, cooperative working is marvelously successful in helping kids to communicate effectively. Working separately can gain lot of individual achievements, but teamwork is the main reasons for the growth up of the society. To illustrate, if leaners cooperate with their friends in an educational environment, they will mutually trust, accept those who are different from themselves. Thus, it can be seen that cooperation is the thing that should be taught for today, being where competition leaves off.
+
+##### Overall
+
+In conclusion, I reaffirm my conviction that although there are some mixed opinions on determining whether the sense of competition or cooperation working should be considered, I think that both ability should share this responsibility. While working individually can help kids develop their personal skills, working in team which can help children trust others.
+
+#### Full
+It is commonly/widely argued that because of children should be encouraged to have sense of competition, while some individuals suggest that children should have cooperation. **Although both views hold merit, my view/I agree more with the former/later perspective**. $\to$ **Although both views hold merit, my view is that both dignity should be have in children**
+
+On the one hand, there are some benefits when children have sense of competition. Firstly, awareness of competition motivates children to improve themselves and *reach higher standard*. The children can learn multiple skills via a competition, such as creation and goal-setting skills. For example, those children take part in sport competitions or academic contests, children are motivated to train harder and improve their performance in order to win. This not only help them build their physical strength but also teaches them discipline and patience. Secondly, they can learn how to cope with pressure and handle comparative with others, which can be beneficial for their future academic and professional lives.
+
+On the other hand, cooperative working is marvelously successful in helping kids to communicate effectively. Working separately can gain lot of individual achievements, but teamwork is the main reasons for the growth up of the society. To illustrate, if leaners cooperate with their friends in an educational environment, they will mutually trust, accept those who are different from themselves. Thus, it can be seen that cooperation is the thing that should be taught for today, being where competition leaves off.
+
+In conclusion, I reaffirm my conviction that although there are some mixed opinions on determining whether the sense of competition or cooperation working should be considered, I think that both ability should share this responsibility. While working individually can help kids develop their personal skills, working in team which can help children trust others.
+
 
 ---
 

@@ -19,3 +19,32 @@ Overall, though the area size remains the same, there are significant changes pl
 # Trend line
 To summarise, it can be seen that the younger age groups visit the cinema the most, whereas older people rarely attend.
 
+
+
+### Chủ ngữ chỉ biểu đồ
+
+| 1   | The chart | The graph                           |
+| --- | --------- | ----------------------------------- |
+|     |           | illustrate                          |
+|     |           | demonstrate                         |
+| 2   | show      | give information/regarding          |
+|     |           | provide information about/regarding |
+|     |           | compare                             |
+|     |           | indicate                            |
+|     |           |                                     |
+
+#### Mô tả xu hướng tăng
+
+| Verb     | Nouns    |
+| -------- | -------- |
+| Increase | Increase |
+| Climb    | Climb    |
+| Rise     | Rise     |
+| Grow     | Growth   |
+| Ascend   | Ascent   |
+| Go up    | -        |
+| Swell    | -        |
+
+
+
+
