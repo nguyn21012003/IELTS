@@ -9,9 +9,9 @@ tags:
 
 # Vocabulary
 
-Rinsing machine
-Concentrated juice
-Refrigerated truck
-Undergo
+
+[Environment](Environment.md)
+[Technology](Technology.md)
+
 
 

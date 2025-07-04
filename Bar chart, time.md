@@ -1,6 +1,6 @@
 ---
 id: Bar chart, time
-aliases: []
+aliases: 
 tags:
   - Bar-chart
   - With-time

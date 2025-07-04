@@ -85,6 +85,34 @@ The process begins when fresh corns are harvested and then transported into stor
 Afterwards, the liquid purifies in 5 hours, forming purified ethanol. Next, the products are driven to warehouse for storage. The process ends with the end products being packed and finally distributed to shops
 
 
+# The diagram below shows how leather is making from animals
+
+
+![leather](assets/w1-leather.png)
+
+
+![water](assets/W1-water-desalination.png)
+
+### By Jeremy
+
+The flow chart illustrates/depicts/shows how water is being desalinated. Overall, it is clear that there are seven main steps in the process, commencing with the collection of seawater and culminating with returning concentrated seawater/brine to the ocean.
+
+The process begins with seawater is collected and then transported into intake screening via pipes.  After that, the seawater is sent to the pretreatment filtration unit, before reversing osmosis to remove salt and other impurities from the water. 
+
+Afterwards, the purified water is transferred to a post-treatment unit to meet drinking water standards. Next, the products are driven into supply tank for storage and prepaired for distribution. The process ends with the concetrated seawater safely returned to the ocean through the outlet as a by-product.
+
+### By AI
+
+The flowchart illustrates the process of desalinating seawater to produce drinking water. Overall, the process involves seven key stages, beginning with the collection of seawater and ending with the return of concentrated brine to the ocean.
+
+Initially, seawater is collected and directed through intake screens via pipes to remove large debris. It is then sent to a pretreatment filtration unit where smaller particles and impurities are eliminated. Following this, the water undergoes reverse osmosis, a process that removes dissolved salts and other contaminants, resulting in purified water.
+
+In the next stage, the filtered water is processed through a post-treatment unit to meet drinking water standards. This treated water is then transferred to a storage tank, from which it is distributed for domestic or industrial use. Finally, the concentrated saltwater by-product is discharged back into the sea through a designated outlet.
+
+
+
+
+
 [Overview brief](Overview%20brief.md)
 [Vocabulary](Vocabulary.md)
 [Grammar](1747055730-IAAZ.md)

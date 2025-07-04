@@ -1,4 +1,9 @@
 {
-  "baseFontSize": 28,
-  "cssTheme": "Minimal"
+  "baseFontSize": 21,
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font",
+  "theme": "moonstone",
+  "accentColor": ""
 }
