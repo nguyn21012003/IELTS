@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertainment.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entertainment"
+              "title": "Vocabulary"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "75577151ec400af7",
   "lastOpenFiles": [
-    "Culture.md",
     "Entertainment.md",
+    "Vocabulary.md",
+    "Culture.md",
     "W2-Discuss both views.md",
     "W2-Give opinion.md",
     "W2-advantages.md",
@@ -233,7 +234,6 @@
     "2025-07-05.md",
     "Process.md",
     "Technology.md",
-    "Vocabulary.md",
     "Pasted image 20250624214741.png",
     "Environment.md",
     "Pie chart, no time.md",
