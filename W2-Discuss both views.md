@@ -3,10 +3,8 @@ id: W2-Discuss both views
 aliases: 
 tags:
   - Discuss
-  - bothviews
   - Task2
 ---
-
 
 # Some people think that sense of competition should be encouraged in children. However, others consider cooperation more important to make them good adults. Discuss both these views and give your opinion.
 
@@ -83,3 +81,52 @@ In order to satisfy the demand for travel of all children in a nation, the numbe
 
 
 ---
+
+# Some people say that the increasing business and cultural contact between countries is positive development, while others think that many countries will lose their national identities as a result. Discuss both views and give your opinion.
+
+### Introduction
+Some individuals claim that the growing international business and cultural exchanges bring positive outcomes, while others suggest that may lead to the erosion of national identity. Although both hold merit, I agree more with the view that economic and cultural exchange should progress hand in hand with efforts to maintain each nation's unique identity.
+Although both hold merit, I agree more with the former perspective.
+
+### Body 1: Lý giải nhận định tại sao quan hệ kinh doanh và văn hoá is positive development
+
+- Tăng cường xuất nhập khẩu
+- Tăng cường quan hệ công chúng, tăng cường mối quan hệ giữa các nước với nhau
+- Job creation.
+- Nhiều khách du lịch
+
+On the one hand, there are some benefits when the nations starting develop economic and cultural exchange. 
+
+-- First of all, in some developing countries, considering cultural exchange can increase tourism, this not only increase their income in economic but also create job for urban employees and make the job market less competitive.
+
+-- First of all, in some developing countries, visa policies constraints that limit travel or cultural exchange opportunities. If the government of each developed and developing nations could intervene and provide international transportation, this could help global connectivity. Also, the language barriers restrict individuals means that job market are not optimized, leading to congestion. If the government can encourage cross-cultural interaction, tourism, and economic collaboration on a broader scale.
+
+
+
+### Body 2: Lý giải tại sao lại đánh mất bản sắc văn hoá dân tộc
+
+On the other hand, opponents of the previous view claim that exchange economical and cultural can leave national identities behind. As far as I am concerned, this is an immature prejudice. It is the large amounts of cultural communication that allow us to compare our culture with others' cultures and gradually realize the peculiarities of our culture. For example, foreigner or international students can learn traditional through historic lessons or religious festivals. People associate this occasion with making fires, watching firework displays, and perhaps going to large events in local parks. Therefore, they gradually came to be aware of the characteristics of the culture and valued it more than ever before. Therefore, business and cultural contact will not weaken national identities, contrarily, they strengthen them.
+
+
+
+
+### Overall
+
+In conclusion, I reaffirm my conviction, national contact can not only drive the development of the economic but also improve the quality the job market. Therefore, we should persevere in globalization amid the siege of isolationism.
+
+
+# Some people think that physical strength is important for success in sport, while other people think that mental strength is more important. Discuss both views and give your own opinion.
+
+### Introduction
+
+A number of individuals claim that the key of leading to successful in sport is physical strength, while others suggest that spirit strength is essential. Although both hold merit, I agree more with the view that these abilities should be mutually shared by athletes.
+
+On the one hand, there are some benefits when athletes can focus on physical strength. First of all, in some sports, endurance constraints may limit access to take part in physical activities, resulting in a large of number athletes failing to have achievements. For instance, triathlon is a combination sport, included swimming, cycling and running. Athletes are relied a huge stamina in order to take part in this outdoor activity. If players do not have enough stamina, they may fail in this contest and even worse, they can harm themselves. Secondly, as long as athletes have advantages in physical strength, they also have more chance in winner than others. In basketball, short players have no chance to play again tall players, despite how they fast and mobility.
+
+On the other hand, mentality is a tool that enhance performance, skills, maintain motivation and confidence of athletes. A strong mindset allows them to keep going even when they are tired or nearly to lose. Without mental strength, even talented players may lose confidence and perform poorly. In addition, having strong mentality can gain respect from other players and show a good sportsmanship. Thus, it can be seen that mentality should taught for young athletes for today.
+
+In conclusion, I reaffirm my conviction that although there are some mixed opinion whether physical strength or mental strength should be considered, I think that both ability should be shared this responsibility. While a good physics can help participants avoid injuries and have some benefits in a game, mentality which can help athletes maintain their motivation and show a good sportsmanship.
+
+### Một số lỗi sai 
+
+

@@ -1,13 +1,13 @@
 ---
 id: W2-advantages
-aliases: []
+aliases: 
 tags:
-  - "[W2-advantages](W2-advantages.md)"
+  - Task2
+  - Writing
+  - Advantages
 ---
 
-
 # In some countries, it is illegal for companies to reject job applicants for their age. Is this positive or negative development?
-
 
 ### By Jeremy
 

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }
