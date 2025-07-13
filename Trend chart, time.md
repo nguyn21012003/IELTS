@@ -58,6 +58,18 @@ In 1994, Japan had the most expensive bananas at around $1.60 per kilo, followed
 
 In Japan, prices peaked sharply at nearly $2.90 in 1995, then dropped to around $1.90 by 1997. Despite fluctuations, they climbed again to approximately $2.60 by the end of the period. France saw a modest increase to $1.70 by 1999, but this was followed by a drop to about $1.00 in 2003 before recovering slightly. Meanwhile, prices in Germany declined gradually to $1.10 in 2004. The US market remained relatively stable, fluctuating between $1.00 and $1.20.
 
+---
+
+
+![Trend](20250712213312.png)
+
+
+The line chart depicts the rate of renewable energy consumption in different countries from 1971 to 2011. 
+
+Overall, six countries showed an increased in use of renewable energy. Throughout the period, Finland consistently registered the top of the list despite a slight drop in 2011. 
+
+In 1971, Finland topped the list with nearly 25%. Following is Denmark
+
 
 
 [Overview brief](Overview%20brief.md)

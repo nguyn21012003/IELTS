@@ -49,7 +49,7 @@ The diagram illustrates the sequential process involved in the production of ora
 
 Overall, it is clear that the orange juice production process is comprised of twelve distinct stages, commencing with harvesting oranges and culminating with delivering the final products to the market.
 
-The process begins with fresh oranges are harvested by skilled gardeners and then transported into factories. Subsequently, the harested oranges are washed in a rinsing machine, before beging extracted into fresh juice with waste solids being released as a by-product. Whereas the solid is used to feed cattle, the juice left is either packaged to be delivered to shops for consumption and saled or loaded into a refrigerator truck.
+The process begins with fresh oranges are harvested by skilled gardeners and then transported into factories. Subsequently, the harested oranges are washed in a rinsing machine, before begin extracted into fresh juice with waste solids being released as a by-product. Whereas the solid is used to feed cattle, the juice left is either packaged to be delivered to shops for consumption and sole or loaded into a refrigerator truck.
 
 In the following stage, the cooled juice evaporated, forming concentrated juice. Following this, as long as they are packed into cans, the products are transported to another factory to experience a treating stage in which water is added. Ultimately, the process ends with the final products is collected and prepared for distribution, ensuring that it reaches retailers for subsequent sale and consumer use.
 
@@ -61,7 +61,7 @@ In the following stage, the cooled juice evaporated, forming concentrated juice.
 
 #### By AI 
 
-The diagram illusttes the steps involved in the production and distribution of orange juice.
+The diagram illustrates the steps involved in the production and distribution of orange juice.
 
 Overall, it is clear that the process consists of twelve stages, starting from the harvesting of oranges and ending with the distribution of orange juice products to retailers.
 
@@ -97,9 +97,9 @@ Afterwards, the liquid purifies in 5 hours, forming purified ethanol. Next, the 
 
 The flow chart illustrates/depicts/shows how water is being desalinated. Overall, it is clear that there are seven main steps in the process, commencing with the collection of seawater and culminating with returning concentrated seawater/brine to the ocean.
 
-The process begins with seawater is collected and then transported into intake screening via pipes.  After that, the seawater is sent to the pretreatment filtration unit, before reversing osmosis to remove salt and other impurities from the water. 
+The process begins with seawater is collected and then transported into intake screening via pipes.  After that, the seawater is sent to the pre-treatment filtration unit, before reversing osmosis to remove salt and other impurities from the water. 
 
-Afterwards, the purified water is transferred to a post-treatment unit to meet drinking water standards. Next, the products are driven into supply tank for storage and prepaired for distribution. The process ends with the concetrated seawater safely returned to the ocean through the outlet as a by-product.
+Afterwards, the purified water is transferred to a post-treatment unit to meet drinking water standards. Next, the products are driven into supply tank for storage and prepared for distribution. The process ends with the concetrated seawater safely returned to the ocean through the outlet as a by-product.
 
 ### By AI
 
@@ -110,7 +110,12 @@ Initially, seawater is collected and directed through intake screens via pipes t
 In the next stage, the filtered water is processed through a post-treatment unit to meet drinking water standards. This treated water is then transferred to a storage tank, from which it is distributed for domestic or industrial use. Finally, the concentrated saltwater by-product is discharged back into the sea through a designated outlet.
 
 
+---
+The flowchart illustrates how aluminium drinks cans are recycled step-by-step. Overall, the process involves ten key stages, commencing with collecting waste can from rubbish and culminating with returning recycled cans to be use again. All these steps are done within six weeks.
 
+The process begins with waste are collected and transported to deposit companies in order to cleaned with water. It is sent to a machine that crush cleaned products into scrap metal. Following this, the scraps are prepared erase with chemicals in order to eliminate impurities.
+
+Afterwards, the purity aluminium undergoes heating process. This stage will melt aluminium scraps into aluminium liquid before beginning poured into a mould to cool. The cooled products is weighted to ensure they meet standard quality before going to rolling machine where they are transformed to aluminium plates. Finally, the aluminium sheets is ready to transformed into new cans being reuse or distributed.
 
 
 [Overview brief](Overview%20brief.md)
